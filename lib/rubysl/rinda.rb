@@ -1,7 +1,2 @@
-require "rubysl-rinda/version"
-
-module RubySL
-  module Rinda
-    # Your code goes here...
-  end
-end
+require "rubysl/rinda/rinda"
+require "rubysl/rinda/version"
